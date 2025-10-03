@@ -13,8 +13,8 @@ Day Name: Monday, Tuesday, … Sunday
 Month Name: January, February, … December
 
 #🔍 Key Insights
-# As per as our dataset, Walmart operates in 3 cities (Yangon, Naypyitaw, Mandalay) with branches A, B, C. Naypyitaw generated the highest revenue.
-# There are 6 unique product lines. Food & Beverages was the most sold product line.
+## As per as our dataset, Walmart operates in 3 cities (Yangon, Naypyitaw, Mandalay) with branches A, B, C. Naypyitaw generated the highest revenue.
+## There are 6 unique product lines. Food & Beverages was the most sold product line.
 Gender distribution varies by branch – in Branch A, female customers dominate.
 Customers use 3 payment methods: Cash, Credit Card, and E-Wallet.
 E-Wallet was the most preferred method.
