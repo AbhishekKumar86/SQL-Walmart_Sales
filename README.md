@@ -12,7 +12,7 @@ This project analyzes Walmart sales data using SQL to identify sales trends, cus
 - Day Name: Monday, Tuesday, … Sunday
 - Month Name: January, February, … December
 
-# Key Insights
+## Key Insights
 - As per as our dataset, Walmart operates in 3 cities (Yangon, Naypyitaw, Mandalay) with branches A, B, C. Naypyitaw generated the highest revenue.
 - There are 6 unique product lines. Food & Beverages was the most sold product line.
 - Gender distribution varies by branch – in Branch A, female customers dominate.
@@ -24,11 +24,11 @@ This project analyzes Walmart sales data using SQL to identify sales trends, cus
 - Ratings are generally higher in the Afternoon.
 - Sunday has the highest average customer ratings.
 
-# 🚀 Tools & Skills Used
+## 🚀 Tools & Skills Used
 - SQL: Joins, CTEs, Window Functions, Aggregations, Feature Engineering
 - Database: MySQL
 
-# 🚀 Business Recommendations
+## 🚀 Business Recommendations
 - Members generate higher revenue compared to normal customers. We can expand membership programs like discounts, loyalty rewards, cashbask since members drive more revenue.
 - For low performing categories, promotions or bundled offers could drive higher sales.
 - Friday and Evening (5-7 pm) are peak shopping times, deploy more staff and run flash discounts during these hours.
