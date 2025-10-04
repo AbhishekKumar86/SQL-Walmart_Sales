@@ -12,7 +12,7 @@ This project analyzes Walmart sales data using SQL to identify sales trends, cus
 - Day Name: Monday, Tuesday, … Sunday
 - Month Name: January, February, … December
 
-#🔍 Key Insights
+# Key Insights
 - As per as our dataset, Walmart operates in 3 cities (Yangon, Naypyitaw, Mandalay) with branches A, B, C. Naypyitaw generated the highest revenue.
 - There are 6 unique product lines. Food & Beverages was the most sold product line.
 - Gender distribution varies by branch – in Branch A, female customers dominate.
